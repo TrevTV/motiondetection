@@ -1,0 +1,5 @@
+pyHS100
+numpy
+mss
+argparse
+opencv-python
