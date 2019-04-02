@@ -1,5 +1,5 @@
 # Motion Detection
-Crappy python script that runs a thing if motion is detected.
+Crappy python script that runs a thing if motion is detected. dont expect any updates unless absolutely necessary
 # How To Use
 Open the motionjs folder and open the index.html file in  your browser. 
 Run reader.py (Your screen must be set to 1920x1080 for it to work properly or change the "top" and "left" value for screenshots)
